@@ -19,6 +19,8 @@ Computer Science Engineering Student
 
 
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Malini_Samy?theme=dark&font=Marcellus&ext=activity)](https://leetcode.com/Malini_Samy)
+
 <!---
 Malini-P/Malini-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
