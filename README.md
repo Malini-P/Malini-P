@@ -8,7 +8,7 @@ Computer Science Engineering Student
 - 😄 Pronouns: Growing Techie
 - ⚡ Fun fact: Always be blessed to have ctrl+z...
 - 📫 How to reach me :
-  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/malini-samy)  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://www.instagram.com/the_blackys_diary)
+  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/malini-samy)  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://www.instagram.com/the_blackys_diary)  [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](https://www.gmail.com/blackyjesus2004)  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />](https://www.telegram.com/the_blackys_diary)
 
 
 ### I code in
