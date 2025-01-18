@@ -8,13 +8,11 @@ Computer Science Engineering Student
 - 😄 Pronouns: Growing Techie
 - ⚡ Fun fact: Always be blessed to have ctrl+z...
 - 📫 How to reach me :
-  <br /> [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/malini-samy)  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://www.instagram.com/the_blackys_diary)  [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](mailto.blackyjesus2004@gmail.com)  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" />](https://www.telegram.com/the_blackys_diary)
+  <br /> [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/malini-samy)  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://www.instagram.com/the_blackys_diary)  [<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#inbox)
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css-logo.png" />
-
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
 
 
 
