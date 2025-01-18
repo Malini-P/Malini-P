@@ -12,7 +12,7 @@ Computer Science Engineering Student
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img/icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css-logo.png" />
 
 
 
