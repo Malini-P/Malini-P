@@ -1,7 +1,7 @@
 ## Hi there!!! It's me Malini
 
 Computer Science Engineering Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/otiginals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 👀 I’m interested in System.out.print("Java");
 - 🌱 I’m currently learning Java FullStack
 - 💞️ I’m looking to collaborate on Top MNC
