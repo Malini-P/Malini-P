@@ -2,10 +2,10 @@
 
 Computer Science Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 👀 I’m interested in System.out.print("Java");
-- 🌱 I’m currently learning Java FullStack
+- 👀 I’m interested in print("Python");
+- 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on Top MNC
-- 😄 Pronouns: Growing Techie
+- 😄 Pronouns: Growing Data Scientist
 - ⚡ Fun fact: Always be blessed to have ctrl+z...
 - 📫 How to reach me :
   <br /> [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/malini-samy)  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://www.instagram.com/the_blackys_diary)  
